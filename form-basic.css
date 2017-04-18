@@ -53,7 +53,7 @@ html{
     width: 240px;
     box-shadow: 1px 2px 4px 0 rgba(0, 0, 0, 0.08);
     padding: 12px;
-    border: 1px solid #dbdbdb;
+    border: 1px solid #38362b;
 }
 
 .form-basic input[type=radio],
@@ -84,7 +84,7 @@ html{
     box-shadow: 1px 2px 4px 0 rgba(0, 0, 0, 0.08);
     font: normal 13px sans-serif;
     padding: 12px;
-    border: 1px solid #dbdbdb;
+    border: 1px solid #38362b;
     resize: vertical;
 }
 
